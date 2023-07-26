@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837771691150",
+    "project_id": "fitlab-435d6",
+    "storage_bucket": "fitlab-435d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837771691150:android:8a89ef5055aa41ff68f5df",
+        "android_client_info": {
+          "package_name": "com.example.fit_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837771691150-l745oj0voonhu89bbd2lbbf2teolo21m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOfY_ATznXUiUMcg_kl_nXNA5DaT3Ntoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837771691150-l745oj0voonhu89bbd2lbbf2teolo21m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
